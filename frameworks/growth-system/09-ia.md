@@ -1,0 +1,3 @@
+# Inteligência Artificial
+
+Uso de IA para marketing, vendas, atendimento e operação.
