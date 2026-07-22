@@ -1,0 +1,3 @@
+# Automações
+
+Processos repetitivos automatizados.
