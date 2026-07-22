@@ -1,3 +1,0 @@
-# Automações
-
-Processos repetitivos automatizados.
