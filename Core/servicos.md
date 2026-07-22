@@ -1,40 +1,41 @@
+# Serviços
 
-# Posicionamento
+## Marketing Estratégico
 
-## Quem somos
-
-A VMX é uma empresa de Inteligência Comercial.
-
-Não somos apenas uma agência de marketing.
-
-Implementamos sistemas de crescimento.
+Planejamento e execução de estratégias para geração de demanda.
 
 ---
 
-## O que fazemos
+## Inteligência Comercial
 
-Integramos:
-
-- Marketing
-- Comercial
-- CRM
-- Automações
-- Inteligência Artificial
-
-em um único sistema.
+Estruturação do setor comercial.
 
 ---
 
-## Como queremos ser percebidos
+## CRM
 
-- Premium
-- Estratégicos
-- Tecnológicos
-- Consultivos
-- Orientados por dados
+Implantação, organização e otimização de CRM.
 
 ---
 
-## Nossa promessa
+## Scripts Comerciais
 
-Ajudamos empresas a vender mais organizando toda a operação comercial.
+Desenvolvimento de scripts de vendas e atendimento.
+
+---
+
+## Automações
+
+Automação de processos comerciais e atendimento.
+
+---
+
+## Inteligência Artificial
+
+Implementação de IA para ganho de produtividade e escala.
+
+---
+
+## Consultoria
+
+Diagnóstico, planejamento e acompanhamento estratégico.
